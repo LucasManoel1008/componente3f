@@ -28,6 +28,9 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
+  background-color: pink;
+  color: #fff;
+  
 }
 
 h1 {
